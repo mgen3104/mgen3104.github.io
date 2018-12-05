@@ -1,0 +1,17 @@
+pre, .entry-content pre {
+  margin: 0 0 20px;
+  padding: 0
+}
+
+pre > code, .entry-content pre > code {
+  font-size: 1.1em;
+  margin: 0;
+  font-family: monospace;
+  padding: 10px 15px;
+  box-sizing: border-box;
+  display: block;
+  background: #1f1f1f;
+  color: #fafafa;
+  overflow: auto;
+  white-space: pre
+}
